@@ -1,0 +1,27 @@
+header img {
+    width: 780px;
+    height: 400px;
+}
+p {
+    text-align: center;
+    font-size: 80px;
+    font-family: sans-serif;
+    margin: 5px;
+}
+main p {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+main img {
+    width: 530px;
+    height: 400px;
+    margin: 120px;
+}
+main table tr td img {
+    width: 220px;
+    height: 130px;
+    padding: 10px;
+    margin: 5px;
+}
