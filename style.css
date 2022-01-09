@@ -19,7 +19,7 @@ main img {
     height: 400px;
     margin: 120px;
 }
-main table tr td img {
+td img {
     width: 220px;
     height: 130px;
     padding: 10px;
